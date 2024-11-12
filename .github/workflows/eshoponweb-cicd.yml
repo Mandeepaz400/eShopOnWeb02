@@ -11,7 +11,6 @@ env:
   SUBSCRIPTION-ID: 9ea477ea-8301-43f0-81af-944ae9ea7eb4
   WEBAPP-NAME: eshoponweb-webapp-mandeep400
 
-
 jobs:
   #Build, test and publish .net web project in repository
   buildandtest:
